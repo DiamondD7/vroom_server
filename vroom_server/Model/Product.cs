@@ -10,6 +10,7 @@ namespace vroom_server.Model
         public string ProductPrice { get; set; }
         public string Description { get; set; }
         public string ProductImage { get; set; }
+        public int Quantity { get; set; }
 
     }
 }
